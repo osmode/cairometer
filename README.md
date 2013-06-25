@@ -3,6 +3,7 @@ cairometer
 
 Plot trends in Twitter activity by query term and location
 Cairometer (C) 2013 by Omar N. Metwally
+omarmetwally.quora.com
 This script mines Twitter data using API v. 1.1 to 
 count the number of tweets featuring political keywords
 as functions of latitutde and longitude and plots them over time
